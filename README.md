@@ -7,7 +7,7 @@ My Personal Portfolio Website
 <title> dhsoenwenjing.github.io </title>
 <img src="photo.jpg"/>
 <p>
-  My name is Oen Wen Jing. I am a student of <a href="www.dhs.sg"> Dunman High School </a>. I am currently in year 1, class 1I.
+  My name is Oen Wen Jing. I am a student of <a href="www.dhs.sg"> Dunman High School </a>. I am currently in year 2, class 2I.
   My Co-curricular activity was Chinese Drama in primary school and Girl Guides in scondary school.</p>
 <br>
 <p>Here are the things I like to do: </p> 
